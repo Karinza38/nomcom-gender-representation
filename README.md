@@ -1,4 +1,4 @@
-# Gender Representation in the IETF Nominating Committees
+Gender Representation in the IETF Nominating Committees
 
 This is the working area for the individual Internet-Draft, "Gender Representation in the IETF Nominating Committees".
 
